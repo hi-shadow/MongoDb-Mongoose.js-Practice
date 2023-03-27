@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-with-mongoose",
+  "version": "1.0.0",
+  "description": "this is a Learing  project of crud operation in mongodb using mongoose , schemas etx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gautam Vaja",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.0.3"
+  }
+}
