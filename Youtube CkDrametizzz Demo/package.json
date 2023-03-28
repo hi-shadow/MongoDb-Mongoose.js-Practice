@@ -9,6 +9,7 @@
   "author": "Gautam Vaja",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^7.0.3"
+    "mongoose": "^7.0.3",
+    "validator": "^13.9.0"
   }
 }
